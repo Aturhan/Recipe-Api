@@ -1,4 +1,4 @@
-name: Recipe-API-ACTIONS
+name: Recipe-API/ACTIONS
 
 on:
   push:
