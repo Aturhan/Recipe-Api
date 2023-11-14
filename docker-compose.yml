@@ -1,0 +1,9 @@
+version: "3.9"
+
+services:
+  app:
+    image: "recipe:latest"
+    build:
+      context: .
+    ports:
+      - "9095:8080"
